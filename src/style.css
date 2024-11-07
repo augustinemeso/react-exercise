@@ -1,0 +1,43 @@
+.typewriter-button {
+    background-color: #333;             
+    color: #fff;                       
+    font-family: 'Courier New', monospace;
+    font-size: 1rem;
+    padding: 10px 15px;
+    border-radius: 50%;                 
+    border: 2px solid #444;             
+    box-shadow: 0px 4px 0px #222,       
+                0px 4px 6px rgba(0, 0, 0, 0.4);
+    transition: transform 0.1s ease-in-out;
+    outline: none;
+    cursor: pointer;
+    margin:"10px"
+  }
+
+  .typewriter-button:active {
+    transform: translateY(4px);         
+    box-shadow: 0px 1px 0px #222;
+  }
+  
+
+  .change-button {
+    background-color: #333;             
+    color: #fff;                       
+    font-family: 'Courier New', monospace;
+    font-size: 1rem;
+    padding: 10px 15px;
+    border-radius: 20px;                 
+    border: 2px solid #444;             
+    box-shadow: 0px 4px 0px #222,       
+                0px 4px 6px rgba(0, 0, 0, 0.4);
+    transition: transform 0.1s ease-in-out;
+    outline: none;
+    cursor: pointer;
+    margin:"10px"; 
+   }
+
+  .change-button:active {
+    transform: translateY(4px);         
+    box-shadow: 0px 1px 0px #222;
+  }
+  
